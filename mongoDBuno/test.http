@@ -1,0 +1,15 @@
+GET http://localhost:3535
+
+###
+
+GET http://localhost:3535/filter_by_isActive
+
+###
+GET http://localhost:3535/age26
+
+###
+GET http://localhost:3535/age26&&30
+
+
+
+
